@@ -23,7 +23,7 @@ Examples:<br>
 ## Encryption examples
 ### Linux (Ubuntu 20.04)
 <p align="center">
-  <img width="739" height="663" src="https://github.com/zexy-swami/password_manager/blob/main/images/encryption_linux.png">
+  <img width="737" height="659" src="https://github.com/zexy-swami/password_manager/blob/main/images/encryption_linux.png">
 </p>
 
 ### Windows
