@@ -21,14 +21,23 @@ Examples:<br>
 </p>
 
 ## Encryption examples
+### Linux (Ubuntu 20.04)
+<p align="center">
+  <img width="739" height="663" src="https://github.com/zexy-swami/password_manager/blob/main/images/encryption_linux.png">
+</p>
+
 ### Windows
 <p align="center">
   <img width="546" height="632" src="https://github.com/zexy-swami/password_manager/blob/main/images/encryption_windows.png">
 </p>
 
 ## Decryption examples
+### Linux (Ubuntu 20.04)
+<p align="center">
+  <img width="731" height="596" src="https://github.com/zexy-swami/password_manager/blob/main/images/decryption_linux.png">
+</p>
+
 ### Windows
 <p align="center">
   <img width="510" height="600" src="https://github.com/zexy-swami/password_manager/blob/main/images/decryption_windows.png">
 </p>
-
