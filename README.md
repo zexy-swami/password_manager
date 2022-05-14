@@ -19,3 +19,16 @@ Examples:<br>
 <p align="center">
   <img width="505" height="64" src="https://github.com/zexy-swami/password_manager/blob/main/images/input_file_format.png">
 </p>
+
+## Encryption examples
+### Windows
+<p align="center">
+  <img width="546" height="632" src="https://github.com/zexy-swami/password_manager/blob/main/images/encryption_windows.png">
+</p>
+
+## Decryption examples
+### Windows
+<p align="center">
+  <img width="510" height="600" src="https://github.com/zexy-swami/password_manager/blob/main/images/decryption_windows.png">
+</p>
+
