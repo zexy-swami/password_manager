@@ -13,5 +13,6 @@ func InputBytesSecure() ([]byte, error) {
 		return nil, err
 	}
 	fmt.Println()
+
 	return byteData, nil
 }
