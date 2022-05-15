@@ -13,7 +13,7 @@ Data should contain:
 ```
 * name of file for saving encrypted data;
 * login (id, nickname, email and etc);
-* password;
+* password.
 ```
 Examples:<br>
 <p align="center">
